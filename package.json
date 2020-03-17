@@ -1,0 +1,11 @@
+{
+  "name": "webpack-rpx",
+  "version": "1.0.0",
+  "description": "webpack loader,fixed design width",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joseelin",
+  "license": "ISC"
+}
